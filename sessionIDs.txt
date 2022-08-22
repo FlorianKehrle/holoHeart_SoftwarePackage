@@ -1,8 +1,9 @@
-# IP Labor
+# IPs Labor
 http://192.168.111.20:5000
-# IP Hütte
+http://192.168.111.213:5000
+# IPs Hütte
 http://192.168.0.171:5000
-# IP KAHL
+# IPs KAHL
 http://192.168.115.139:5000
-# IP Nerd
+# IPs Nerd
 http://192.168.1.185:5000
