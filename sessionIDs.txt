@@ -6,7 +6,7 @@ https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c5
 
 # IPs Hütte
 http://192.168.0.171:5000
-https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/InHeart.glb?raw=true
+https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
 
 # IPs KAHL
 http://192.168.115.139:5000
