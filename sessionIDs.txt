@@ -1,8 +1,12 @@
-# IPs Labor
+# Monkey
 http://192.168.111.20:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
+# Surface
 http://192.168.111.213:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
+# Alienware
+http://192.168.111.42:5000
+https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/InHeart.glb?raw=true
 
 # IPs Hütte
 http://192.168.0.171:5000
@@ -27,7 +31,3 @@ http://192.168.32.101:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
 http://192.168.84.101:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
-
-# Alienware
-http://192.168.111.42:5000
-https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
