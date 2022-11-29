@@ -2,6 +2,8 @@
 http://192.168.111.20:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
 # Elephant
+http://192.168.1.191:5000
+https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
 http://192.168.111.122:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
 # Surface
