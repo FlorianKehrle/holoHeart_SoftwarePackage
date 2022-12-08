@@ -8,7 +8,7 @@ http://192.168.111.122:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
 # Surface
 http://192.168.111.213:5000
-https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/0275fc71e1569c0aa46a75c59a82be81945ff7dc/Haus_Boettger.glb
+https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/Haus_Boettger.glb?raw=true
 # https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
 # Alienware
 http://192.168.111.42:5000
