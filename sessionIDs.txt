@@ -5,8 +5,7 @@ https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.gl
 http://192.168.1.191:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
 http://192.168.111.122:5000
-https://inspirationlabs.sharepoint.com/sites/veldt.ar/_layouts/15/download.aspx?SourceUrl=%2Fsites%2Fveldt%2Ear%2FFreigegebene%20Dokumente%2FGeneral%2F3D%5Fmodels%2FCARTO%5FHeart%2Eglb
-# https://inspirationlabs.sharepoint.com/sites/veldt.ar/_layouts/15/download.aspx?SourceUrl=%2Fsites%2Fveldt%2Ear%2FFreigegebene%20Dokumente%2FGeneral%2F3D%5Fmodels%2Fanimated%5FCT%2Eglb
+https://uc4fbc9875fceea4dadb07637d74.dl.dropboxusercontent.com/cd/0/get/B0WClgT-8W1B5r4crXIO1wjJuLSapXogKRGEyBGAmmIdNiy8II4cEQKZxnaca4aCtpgmlBt7F0joyDyCjxYAxVD9M0rROcRxEPL8PHkDJs6NylP3Ex5L2mQ5cKFyjDgO-nMqCqUmE765QcflArUiEy0JS9WOsW4uk-PqBkqrhA_LATZQV5s1IueuDz2oZNQABVI/file?_download_id=80330153221115644724654415878945005145197551054479027340623911343&_notify_domain=www.dropbox.com&dl=1
 # https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
 # Surface
 http://192.168.111.213:5000
