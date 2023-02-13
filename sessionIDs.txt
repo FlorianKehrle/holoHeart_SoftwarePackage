@@ -3,7 +3,8 @@ http://192.168.111.20:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/CT_Heart.glb?raw=true
 # Elephant
 http://192.168.0.247:5000
-https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/US_MIA_NBAY4541_IDC_Rvt20_CF01.glb?raw=true
+https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/TwinMotionExport.glb?raw=true
+# https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/main/US_MIA_NBAY4541_IDC_Rvt20_CF01.glb?raw=true
 # https://funcveldtdev.azurewebsites.net/api/file/download/730c4704-1b85-4ef8-a58b-3cd2120b5df9
 http://192.168.1.191:5000
 https://github.com/FlorianKehrle/holoHeart_SoftwarePackage/blob/25a75509e6f9a0c573de9b1c8c2c8a24de013af5/CARTO_Heart.glb?raw=true
